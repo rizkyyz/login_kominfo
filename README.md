@@ -7,7 +7,7 @@ version: 1.0.0
 ### Password : 12345
 
 1. LOG
-![Hasil](Screenshot (242).png)
+![Hasil](Screenshot%20(242).png)
 
 2. DASBOR
-![Hasil](Screenshot (243).png)
+![Hasil](Screenshot%20(243).png)
