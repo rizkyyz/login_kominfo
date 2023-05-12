@@ -6,8 +6,8 @@ version: 1.0.0
 
 ### Password : 12345
 
-1. admin
-![Hasil](admin.png)
+1. LOG
+![Hasil](Screenshot (242).png)
 
-2. pelanggan
-![Hasil](pelanggan.png)
+2. DASBOR
+![Hasil](Screenshot (243).png)
