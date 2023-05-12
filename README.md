@@ -6,10 +6,8 @@ version: 1.0.0
 
 ### Password : 12345
 
-## Full Tutorial
+1. admin
+![Hasil](admin.png)
 
-[On Youtube](https://youtu.be/TytaDtwnj0o)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
+2. pelanggan
+![Hasil](pelanggan.png)
